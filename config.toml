@@ -1,0 +1,14 @@
+baseURL = "https://steinreinigung-steffens.com"
+title = "steinreinigung-steffens.com"
+languageCode = "de"
+#theme = "editor"
+
+keywords = "steinreinigung wiesbaden hessen versiegelung stein reinigung"
+email = "steinreinigung-steffens@web.de"
+robots = "follow, all"
+publisher = "Christian Steffens"
+
+[params]
+    author = "Christian Steffens"
+    locale = "de"
+    copyright = "Christian Steffens"
