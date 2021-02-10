@@ -1,4 +1,5 @@
-baseURL = "https://steinreinigung-steffens.com"
+baseURL = "https://ripx80.github.io/steinreinigung-steffens/"
+#baseURL = "https://steinreinigung-steffens.com"
 title = "steinreinigung-steffens.com"
 languageCode = "de"
 theme = "meghna-hugo"
@@ -52,7 +53,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["fr"]
+disableLanguages = ["fr", "en"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -216,4 +217,4 @@ languageCode = "de-us"
 contentDir = "content/deutsch"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2021 Steffens"
+copyright = "Copyright &copy; 2021 Christian Steffens"

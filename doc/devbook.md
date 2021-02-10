@@ -61,4 +61,6 @@ Domain: steinreinigung-steffens.com
 
 ## Notice
 
+- https://developers.google.com/speed/webp/docs/cwebp
 - webp: cwebp -q 50 -lossless picture.png -o picture_lossless.webp
+- convert dragon_sm.gif    -resize 64x64  resize_dragon.gif
