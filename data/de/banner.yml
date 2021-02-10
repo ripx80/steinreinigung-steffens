@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable: true
+  bg_image_webp: "images/backgrounds/banner-sm.webp"
+  bg_image: "images/backgrounds/banner-sm.jpg"
+  icon: "" # themify icon pack : https://themify.me/themify-icons
+  title: "Steinreinigung Steffens"
+  content: "Wir lieben Steine jeglicher Form, vor allem saubere"
+  button:
+    enable: true
+    label: "Tauchen Sie ein in die Welt der Steinepflege"
+    link: "#services"

@@ -6,14 +6,23 @@ Domain: steinreinigung-steffens.com
 
 - 05.02.2021: Kundengespräch, Auftrag definiert und erhalten (s. Tätigkeiten, Finanzielles)
 - 08.02.2021: Initial commit on github
+- 10.02.2021: Begin with template customisation
+
+## Anfragen
+
+- Kontakt:
+  - Telefonnummer
+  - Addresse
+- Google Analytics ID
+
 
 ## Aufgaben
 
-- [ ] - github repo erstellen
-- [ ] - pages einrichten
-- [ ] - Testsite mit Hugo erstellen
-- [ ] - Github Actions einrichten
-  - https://ruddra.com/hugo-deploy-static-page-using-github-actions/
+- [x] - github repo erstellen
+- [x] - pages einrichten
+- [x] - Testsite mit Hugo erstellen
+- [x] - Github Actions einrichten
+- [ ] - Change jpg format to webp and render in lower resolution
 - [ ] - Template integrieren
 - [ ] - Google Analytics integrieren
   - https://support.google.com/analytics/answer/1008080?hl=de
@@ -26,6 +35,9 @@ Domain: steinreinigung-steffens.com
   - https://discourse.gohugo.io/t/contact-form-endpoint/14346/3
 - [ ] - Domain umziehen zu inwx
 - [ ] - SSL Zertifikate
+
+
+  - https://ruddra.com/hugo-deploy-static-page-using-github-actions/
 
 ## Tätigkeiten
 
@@ -46,3 +58,7 @@ Domain: steinreinigung-steffens.com
 - Für das Hosting werden monatlich 25€ berechnet
 - Einmalig pro Jahr werden die Domainkosten von ca. 12,00 - 15,00 € fällig
 - Eine Rechnung wird nach Fertigstellung der Website und zum Ende jeden Quartals  erstellt
+
+## Notice
+
+- webp: cwebp -q 50 -lossless picture.png -o picture_lossless.webp

@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable: true
+  title: Unsere Leistungen
+  service_item:
+    # service item loop
+    - name: Steinreinigung
+      icon: ti-brush-alt # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name: Veredelung
+      icon: ti-medall # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name: Fugensanierung
+      icon: ti-layout # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name: Imprägnierung
+      icon: ti-shield # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name: Spezialreinigung
+      icon: ti-palette # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name: Fassadenreinigung
+      icon: ti-paint-roller # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

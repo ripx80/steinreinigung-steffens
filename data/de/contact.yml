@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable: true
+  title: Kontakt
+  subtitle: Kontaktinformationen
+  content: Bitte füllen Sie das Kontaktformular aus, damit wir mit Ihnen eine Leistung für Ihre persönlichen Anforderungen erstellen können. Bitte hinterlassen Sie auch eine valide Kontaktmöglichkeit, damit wir Sie erreichen können.
+
+  # Contact details
+  contact_list:
+    - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info: "Christian Steffens, Holzhausen, Deutschland"
+
+    - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info: "Tel: +880-31-000-000"
+
+    # - icon: ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info: "Fax: +880-31-000-000"
+
+    - icon: ti-email # themify icon pack : https://themify.me/themify-icons
+      info: "Email: steinreinigung-steffens@web.de"
+
+  # Contact form
+  contact_form:
+    enable: true
+    form_action: "#" #contact form works with https://formspree.io
+    name: "Ihr Name"
+    email: "Ihre Email"
+    phone: "Ihre Telefonnummer"
+    subject: "Anliegen: z.B Steinreinigung mit Versiegelung"
+    message: "Nachricht"
+    submit: "Absenden"
