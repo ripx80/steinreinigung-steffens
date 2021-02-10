@@ -2,6 +2,7 @@ baseURL = "https://ripx80.github.io/steinreinigung-steffens/"
 #baseURL = "https://steinreinigung-steffens.com"
 title = "steinreinigung-steffens.com"
 languageCode = "de"
+defaultContentLanguage = "de"
 theme = "meghna-hugo"
 
 keywords = "steinreinigung wiesbaden hessen versiegelung stein reinigung"
@@ -207,7 +208,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
@@ -215,6 +216,6 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 languageName = "De"
 languageCode = "de-us"
 contentDir = "content/deutsch"
-weight = 2
+weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2021 Christian Steffens"
