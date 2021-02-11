@@ -8,10 +8,10 @@ contact:
   # Contact details
   contact_list:
     - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info: "Christian Steffens, Holzhausen, Deutschland"
+      info: "Steinreinigung Steffens, Bäderstraße 39, 56357 Holzhausen"
 
     - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info: "Tel: +880-31-000-000"
+      info: "Tel: +49174-8961178"
 
     # - icon: ti-printer # themify icon pack : https://themify.me/themify-icons
     #   info: "Fax: +880-31-000-000"

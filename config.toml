@@ -34,6 +34,10 @@ post_share = true
 enable = false
 preloader = "images/logo.png"
 
+# blog
+[params.blog]
+enable = false
+
 # cookies
 [params.cookies]
 enable = true

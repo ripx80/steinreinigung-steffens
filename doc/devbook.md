@@ -7,12 +7,10 @@ Domain: steinreinigung-steffens.com
 - 05.02.2021: Kundengespräch, Auftrag definiert und erhalten (s. Tätigkeiten, Finanzielles)
 - 08.02.2021: Initial commit on github
 - 10.02.2021: Begin with template customisation
+- 11.02.2021: Impressum, Datenschutz erstellt, Protfolio, Team, Logo bearbeitet und eingefügt
 
 ## Anfragen
 
-- Kontakt:
-  - Telefonnummer
-  - Addresse
 - Google Analytics ID
 - Professionelles Foto, Möglicherweise Schwarzweis
 - Texte zu den einzelnen Bildern im Portfolio
@@ -27,6 +25,8 @@ Domain: steinreinigung-steffens.com
 - [x] - pages einrichten
 - [x] - Testsite mit Hugo erstellen
 - [x] - Github Actions einrichten
+- [ ] - Cookie Banner auf Deutsch
+- [ ] - YouTube Videos einbinden oder auf Kanal verweisen
 - [ ] - Change jpg format to webp and render in lower resolution
 - [ ] - Template integrieren
 - [ ] - Google Analytics integrieren
