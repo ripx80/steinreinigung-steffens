@@ -14,6 +14,8 @@ publisher = "Christian Steffens"
 author = "Christian Steffens"
 locale = "de"
 copyright = "Christian Steffens"
+legaldisclosure = "Impressum"
+dataprotection = "Datenschutz"
 
 
 ### Theme Config ###
