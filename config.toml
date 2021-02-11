@@ -165,11 +165,11 @@ pre = "#"
 url = "pricing"
 weight = 5
 
-[[Languages.de.menu.main]]
-name = "Blog"
-pre = "#"
-url = "blog"
-weight = 6
+# [[Languages.de.menu.main]]
+# name = "Blog"
+# pre = "#"
+# url = "blog"
+# weight = 6
 
 [[Languages.de.menu.main]]
 name = "Kontakt"

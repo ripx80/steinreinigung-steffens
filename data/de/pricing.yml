@@ -1,0 +1,40 @@
+##################################### pricing ##############################
+pricing:
+  enable: true
+  title: Angebote
+  pricing_table:
+    # pricing table loop
+    - name: Reinigung
+      price: 900€
+      unit:
+      services:
+        - Flächen
+        - Fassaden
+        - Terrassen
+
+    # pricing table loop
+    - name: Versiegelung
+      price: 900€
+      unit:
+      services:
+        - Mamor
+        - Außensteine
+        - Fugen
+
+    # pricing table loop
+    - name: Dachreinigung
+      price: 900€
+      unit:
+      services:
+        - Dachflächen
+        - Dachgauben
+        - Dachversiegelung
+
+    # pricing table loop
+    - name: Spezial
+      price: Auf Anfrage
+      unit:
+      services:
+        - Öl Entfernung
+        - Spezialreinigung
+        - Schimmelentfernung
