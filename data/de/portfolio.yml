@@ -1,76 +1,75 @@
 #################################### portfolio ###############################
 portfolio:
-  enable: false
+  enable: true
   title: Unsere Arbeiten
   portfolio_item:
     # portfolio item loop
     - name: Terrasen Reinigung
-      image: images/portfolio/portfolio-1.jpg
-      image_webp: images/portfolio/portfolio-1.webp
+      image: images/portfolio/p-1.jpg
+      image_webp: images/portfolio/p-1.webp
       categories: ["Reinigung"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "https://themefisher.com"
 
     # portfolio item loop
     - name: Flächen Versiegelung
-      image: images/portfolio/portfolio-2.jpg
-      image_webp: images/portfolio/portfolio-2.webp
+      image: images/portfolio/p-2.jpg
+      image_webp: images/portfolio/p-2.webp
       categories: ["Versiegelung"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: ""
 
     # portfolio item loop
     - name: Fassaden Reinigung
-      image: images/portfolio/portfolio-3.jpg
-      image_webp: images/portfolio/portfolio-3.webp
+      image: images/portfolio/p-3.jpg
+      image_webp: images/portfolio/p-3.webp
       categories: ["Reinigung"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "#"
 
     # portfolio item loop
-    - name: Öl Verunreinigungen
-      image: images/portfolio/portfolio-4.jpg
-      image_webp: images/portfolio/portfolio-4.webp
+    - name: Flächtenentfernung
+      image: images/portfolio/p-4.jpg
+      image_webp: images/portfolio/p-4.webp
       categories: ["Reinigung", "Spezial"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "#"
 
     # portfolio item loop
     - name: Mamor Restaurierung
-      image: images/portfolio/portfolio-5.jpg
-      image_webp: images/portfolio/portfolio-5.webp
+      image: images/portfolio/p-5.jpg
+      image_webp: images/portfolio/p-5.webp
       categories: ["Reinigung", "Spezial"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "#"
 
     # portfolio item loop
-    - name: Tag Design
-      image: images/portfolio/portfolio-6.jpg
-      image_webp: images/portfolio/portfolio-6.webp
-      categories: ["photography"]
+    - name: Dachreinigung
+      image: images/portfolio/p-6.jpg
+      image_webp: images/portfolio/p-6.webp
+      categories: ["Dachreinigung"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "#"
 
     # portfolio item loop
-    - name: Business Card
-      image: images/portfolio/portfolio-7.jpg
-      image_webp: images/portfolio/portfolio-7.webp
-      categories: ["development"]
+    - name: Versiegelung
+      image: images/portfolio/p-7.jpg
+      image_webp: images/portfolio/p-7.webp
+      categories: ["Versiegelung"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "#"
 
     # portfolio item loop
-    - name: Stationary Design
-      image: images/portfolio/portfolio-8.jpg
-      image_webp: images/portfolio/portfolio-8.webp
-      categories: ["design", "development"]
+    - name: Dachreinigung
+      image: images/portfolio/p-8.jpg
+      image_webp: images/portfolio/p-8.webp
+      categories: ["Dachreinigung"]
       content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link: "#"
-
-    # portfolio item loop
-    - name: Tag Design
-      image: images/portfolio/portfolio-2.jpg
-      image_webp: images/portfolio/portfolio-2.webp
-      categories: ["design", "photography"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link: "#"
+    # # portfolio item loop
+    # - name: Tag Design
+    #   image: images/portfolio/p-9.jpg
+    #   image_webp: images/portfolio/p-9.webp
+    #   categories: ["Reinigung", "Versiegelung"]
+    #   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link: "#"
