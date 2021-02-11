@@ -5,7 +5,7 @@ banner:
   bg_image: "images/backgrounds/banner-sm.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
   title: "Steinreinigung Steffens"
-  content: "Wir lieben Steine jeglicher Form, vor allem saubere"
+  content: "Wir lieben Steine, vor allem saubere"
   button:
     enable: true
     label: "Tauchen Sie ein in die Welt der Steinepflege"

@@ -14,7 +14,12 @@ Domain: steinreinigung-steffens.com
   - Telefonnummer
   - Addresse
 - Google Analytics ID
-
+- Professionelles Foto, Möglicherweise Schwarzweis
+- Texte zu den einzelnen Bildern im Portfolio
+- Kunden für Feedback, ggf mit Bild
+- Preisliche Gestaltung
+- Text für Christian Steffens
+- Zahlen: Zufriedene Kunden, Projekte, Positives Feedback
 
 ## Aufgaben
 
