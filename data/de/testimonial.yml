@@ -1,0 +1,12 @@
+################################# Testimonial #########################
+testimonial:
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+    # testimonial item loop
+    - name: Kunde A
+      image: images/client/client-1.jpg
+      image_webp: images/client/client-1.webp
+      date: 15.03.2021
+      content: Ich bin sehr zufrieden mit dem erbrachten Service und kann ihnen Steinreinigung-Steffens nur empfehlen. Preis/-Leistung und die Freundlichkeit gegenüber dem Kunden waren eine willkommene Abwechselung zu anderen Dienstleistern
