@@ -8,6 +8,12 @@ Domain: steinreinigung-steffens.com
 - 08.02.2021: Initial commit on github
 - 10.02.2021: Begin with template customisation
 - 11.02.2021: Impressum, Datenschutz erstellt, Protfolio, Team, Logo bearbeitet und eingefügt
+- 13.02.2021: Kundengespräch über weiteres vorgehen (12h verbraucht)
+
+- Fotos vorher nacher, einheitliche Größe
+- Social Channels
+- ggf Blog stories
+
 
 ## Anfragen
 
