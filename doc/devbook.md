@@ -34,6 +34,8 @@ Unsere Arbeit
  - Versiegelung -> Imprägnierung
  - Bild mit Imprägnierung, Wasserperlen
  
+- funfacts: Steine gereinigt: ti-layout-grid2
+ 
 - Blog aktivieren
 
 Unser Team: Darf ich vorstellen
