@@ -8,10 +8,47 @@ Domain: steinreinigung-steffens.com
 - 08.02.2021: Initial commit on github
 - 10.02.2021: Begin with template customisation
 - 11.02.2021: Impressum, Datenschutz erstellt, Protfolio, Team, Logo bearbeitet und eingefügt
+- 13.02.2021: Kundengespräch über weiteres vorgehen (12h verbraucht)
+
+Zusammenschreiben mit Aktionen
+
+- Grid Position
+
+
+- Fotos vorher nacher, einheitliche Größe
+- Social Channels
+- ggf Blog stories
+
+
+- Anfangsbild: Vorhernacher Bild, steinreinigung-steffens.com mit dem Reiniger
+
+Leistungen:
+
+- Spezial -> Sonderreinigung.
+- Fassade und Dach: ti-home
+- Verdedelung: ti-layout-grid3-alt
+- Steinreinigung: ti-layout-grid3
+
+Unsere Arbeit
+ - Durcheinander: Drei Terrassen, Einfahren, Dach/Fassade
+ - Versiegelung -> Imprägnierung
+ - Bild mit Imprägnierung, Wasserperlen
+ 
+- funfacts: Steine gereinigt: ti-layout-grid2
+ 
+- Blog aktivieren
+
+Unser Team: Darf ich vorstellen
+
+Kundenfeedback: Rausnehmen
+Angebote: Rausnehmen oder Reinigungsmittel
+
+Kontakt: Festnetznummer
+Social: Facebook, YouTube, Instagram
 
 ## Anfragen
 
-- Google Analytics ID
+- Google Analytics ID: scfe4d754dc915914
 - Professionelles Foto, Möglicherweise Schwarzweis
 - Texte zu den einzelnen Bildern im Portfolio
 - Kunden für Feedback, ggf mit Bild
