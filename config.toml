@@ -22,7 +22,7 @@ dataprotection = "Datenschutz"
 logo = "images/logo.png"
 
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "Steinreinigung Wiesbaden Hessen Versiegelung Reinigung Steine Terrasse"
 
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -36,7 +36,7 @@ preloader = "images/logo.png"
 
 # blog
 [params.blog]
-enable = false
+enable = true
 
 # cookies
 [params.cookies]
@@ -142,7 +142,7 @@ link = "plugins/google-map/map.js"
 
 ################### Deutsche Navigation ########################
 [[Languages.de.menu.main]]
-name = "Über Uns"
+name = "Leistungen"
 pre = "#"
 url = "about"
 weight = 1
@@ -160,22 +160,22 @@ url = "portfolio"
 weight = 3
 
 [[Languages.de.menu.main]]
-name = "Team"
+name = "Über"
 pre = "#"
 url = "team"
 weight = 4
 
-[[Languages.de.menu.main]]
-name = "Preise"
-pre = "#"
-url = "pricing"
-weight = 5
-
 # [[Languages.de.menu.main]]
-# name = "Blog"
+# name = "Preise"
 # pre = "#"
-# url = "blog"
-# weight = 6
+# url = "pricing"
+# weight = 5
+
+[[Languages.de.menu.main]]
+name = "Stories"
+pre = "#"
+url = "blog"
+weight = 6
 
 [[Languages.de.menu.main]]
 name = "Kontakt"
@@ -189,25 +189,12 @@ icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://youtu.be/FVUBXBCWLiM"
 
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
 
 ################################ English Language ########################
 # [Languages.en]

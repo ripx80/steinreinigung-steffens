@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable: true
-  bg_image_webp: "images/backgrounds/banner-sm.webp"
-  bg_image: "images/backgrounds/banner-sm.jpg"
+  bg_image_webp: "images/backgrounds/banner.webp"
+  bg_image: "images/backgrounds/banner.jpg"
   icon: "" # themify icon pack : https://themify.me/themify-icons
   title: "Steinreinigung Steffens"
   content: "Wir lieben Steine, vor allem saubere"

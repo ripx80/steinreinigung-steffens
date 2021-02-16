@@ -49,7 +49,9 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-transparent">I Accept</span>
+	Wenn Sie diese Seite nutzen, stimmen Sie der Nutzung von Cookies zu. Siehe 
+    <a href="{{site.BaseURL | absLangURL}}legal/{{ site.Params.dataprotection | safeURL | lower}}">{{ site.Params.dataprotection | markdownify }}. </a>
+    <span id="js-cookie-button" class="btn btn-transparent">Ich verstehe</span>
 </div>
 <script>
 	(function ($) {

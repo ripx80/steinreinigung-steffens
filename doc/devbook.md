@@ -25,19 +25,17 @@ Domain: steinreinigung-steffens.com
 - [x] - pages einrichten
 - [x] - Testsite mit Hugo erstellen
 - [x] - Github Actions einrichten
-- [ ] - Cookie Banner auf Deutsch
-- [ ] - YouTube Videos einbinden oder auf Kanal verweisen
-- [ ] - Change jpg format to webp and render in lower resolution
-- [ ] - Template integrieren
-- [ ] - Google Analytics integrieren
+- [x] - Cookie Banner auf Deutsch
+- [x] - YouTube Videos einbinden oder auf Kanal verweisen
+- [x] - Template integrieren
+- [x] - Content erstellen
+- [x] - Cookie Banner hinzufügen
+- [x] - Kontaktformular mit JS und E-Mail versandt
+- [ ] - Google Analytics integrieren, warte auf ID von steffens
   - https://support.google.com/analytics/answer/1008080?hl=de
-- [ ] - Content erstellen
-- [ ] - Cookie Banner hinzufügen
-  - https://liatas.com/posts/hugo-gdpr-cookie-consent-banner/
-- [ ] - Kontaktformular mit JS und E-Mail versandt
-  - (https://medium.com/getform-all-about/how-to-add-a-contact-form-to-your-hugo-website-84ea79683399)
-  - https://formspree.io/
-  - https://discourse.gohugo.io/t/contact-form-endpoint/14346/3
+
+- [ ] - Change jpg format to webp and render in lower resolution
+- [ ] - switch email to steffens-web
 - [ ] - Domain umziehen zu inwx
 - [ ] - SSL Zertifikate
 

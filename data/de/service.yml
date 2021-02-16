@@ -5,30 +5,30 @@ service:
   service_item:
     # service item loop
     - name: Steinreinigung
-      icon: ti-brush-alt # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon: ti-layout-grid3 # themify icon pack : https://themify.me/themify-icons
+      content: Umweltfreundlich und biologisch abbaubar
 
     # service item loop
     - name: Veredelung
-      icon: ti-medall # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon: ti-layout-grid3-alt # themify icon pack : https://themify.me/themify-icons
+      content: Wirkformel für neues aussen der Steine
 
     # service item loop
     - name: Fugensanierung
       icon: ti-layout # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content: Feste Fuge bis 30t belastbar
 
     # service item loop
     - name: Imprägnierung
       icon: ti-shield # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content: Steinschutz gegen Witterungseinflüsse
 
     # service item loop
-    - name: Spezialreinigung
-      icon: ti-palette # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name: Sonderreinigung
+      icon: ti-alert # themify icon pack : https://themify.me/themify-icons
+      content: Beseitigung von Öl, Farbe, Kaugummi und Grafitty
 
     # service item loop
-    - name: Fassadenreinigung
-      icon: ti-paint-roller # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name: Dach/Fassadenreinigung
+      icon: ti-home # themify icon pack : https://themify.me/themify-icons
+      content: Schonende Reinigung ohne die Materialien zu beschädigen

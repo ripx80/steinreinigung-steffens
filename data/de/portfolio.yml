@@ -4,72 +4,89 @@ portfolio:
   title: Unsere Arbeiten
   portfolio_item:
     # portfolio item loop
-    - name: Terrasen Reinigung
+    - name: Terrasenreinigung
       image: images/portfolio/p-1.jpg
       image_webp: images/portfolio/p-1.webp
       categories: ["Reinigung"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content: Durch den Einsatz verschiedener Reinigungsmittel, können wir die eigentliche Farbe der Oberfläche gut zum Vorschein bringen. Mehr Infos finden Sie unten in unseren Stories.
       link: "https://themefisher.com"
 
     # portfolio item loop
-    - name: Flächen Versiegelung
+    - name: Treppenreinigung
       image: images/portfolio/p-2.jpg
       image_webp: images/portfolio/p-2.webp
-      categories: ["Versiegelung"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link: ""
+      categories: ["Reinigung"]
+      content: Bei hellen empfindlichen Steinen im außenbereich sorgt eine gute Imprägnierung dafür, dass die Oberfläche nicht mehr so schnell durch Feuchtigkeit verschmutzt wird.
+      link: "#"
 
     # portfolio item loop
-    - name: Fassaden Reinigung
+    - name: Einfahrt Reinigung
       image: images/portfolio/p-3.jpg
       image_webp: images/portfolio/p-3.webp
       categories: ["Reinigung"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content: Typischer Flechtenbefall, den wir wieder mit unseren Reinigungsverfahren auf vordermann bekommen ahben. Konstenlose Beratung? Kontaktieren Sie uns.
       link: "#"
 
     # portfolio item loop
-    - name: Flächtenentfernung
+    - name: Einfahrt Veredelung
       image: images/portfolio/p-4.jpg
       image_webp: images/portfolio/p-4.webp
-      categories: ["Reinigung", "Spezial"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories: ["Veredelung"]
+      content: Lässt den Stein nicht übermalt aussehen, sondern die aufgerauten Poren sind wieder geschlossen und geschützt.
       link: "#"
 
     # portfolio item loop
-    - name: Mamor Restaurierung
+    - name: Veredelung Einfahrt
       image: images/portfolio/p-5.jpg
       image_webp: images/portfolio/p-5.webp
-      categories: ["Reinigung", "Spezial"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories: ["Veredelung"]
+      content: Bis zu 70% günstiger als Neuverlegung! Gerne beraten wir sie unverbindlich.
       link: "#"
 
     # portfolio item loop
-    - name: Dachreinigung
+    - name: Veredelung Betonpflaster
       image: images/portfolio/p-6.jpg
       image_webp: images/portfolio/p-6.webp
-      categories: ["Dachreinigung"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories: ["Veredelung"]
+      content: Die Veredelung macht den Stein wasserabweisend und lässt ihn wie neu verlegt aussehen!
       link: "#"
 
     # portfolio item loop
-    - name: Versiegelung
+    - name: Fugensanierung
       image: images/portfolio/p-7.jpg
       image_webp: images/portfolio/p-7.webp
-      categories: ["Versiegelung"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories: ["Sanierung"]
+      content: Spezielle feste Fugensanierung die bis zu 7,5t belastbar ist und zudem ist sie Wasserdurchlässig und hemmt das Unkraut.
+      link: "#"
+
+    # portfolio item loop
+    - name: Fugensanierung
+      image: images/portfolio/p-8.jpg
+      image_webp: images/portfolio/p-8.webp
+      categories: ["Sanierung"]
+      content: Bei dieser Fläche wurde ine lose Quarz Fuge in Naturfarbe gebracht.
+      link: "#"
+
+    # portfolio item loop
+    - name: Fugensanierung
+      image: images/portfolio/p-9.jpg
+      image_webp: images/portfolio/p-9.webp
+      categories: ["Sanierung"]
+      content: Optional kann auch Basalt Splitt eingekehrt werden. Wir freuen uns auf Ihre Anfrage.
       link: "#"
 
     # portfolio item loop
     - name: Dachreinigung
-      image: images/portfolio/p-8.jpg
-      image_webp: images/portfolio/p-8.webp
-      categories: ["Dachreinigung"]
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      image: images/portfolio/p-10.jpg
+      image_webp: images/portfolio/p-9.webp
+      categories: ["Reinigung", "Dach"]
+      content: Dachplatten mit ca 220 Bar Druck von Moos und Algen befreit.
       link: "#"
-    # # portfolio item loop
-    # - name: Tag Design
-    #   image: images/portfolio/p-9.jpg
-    #   image_webp: images/portfolio/p-9.webp
-    #   categories: ["Reinigung", "Versiegelung"]
-    #   content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    #   link: "#"
+
+    # portfolio item loop
+    - name: Dachreinigung
+      image: images/portfolio/p-11.jpg
+      image_webp: images/portfolio/p-9.webp
+      categories: ["Reinigung", "Dach"]
+      content: Dachplatten gereinigt mit 220 Bar und von Rotalgen befreit.
+      link: "#"

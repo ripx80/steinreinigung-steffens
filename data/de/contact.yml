@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Kontakt
   subtitle: Kontaktinformationen
-  content: Bitte füllen Sie das Kontaktformular aus, damit wir mit Ihnen eine Leistung für Ihre persönlichen Anforderungen erstellen können. Bitte hinterlassen Sie auch eine valide Kontaktmöglichkeit, damit wir Sie erreichen können.
+  content: Bitte füllen Sie das Kontaktformular aus, damit wir mit Ihnen eine Leistung für Ihre persönlichen Anforderungen erstellen können. Bitte hinterlassen Sie auch eine valide Kontaktmöglichkeit, damit wir Sie erreichen können. Sie können uns auch gerne per **WhatsApp** kontaktieren.
 
   # Contact details
   contact_list:
@@ -11,10 +11,10 @@ contact:
       info: "Steinreinigung Steffens, Bäderstraße 39, 56357 Holzhausen"
 
     - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info: "Tel: +49174-8961178"
+      info: "Mobil: +49 174-8961178"
 
-    # - icon: ti-printer # themify icon pack : https://themify.me/themify-icons
-    #   info: "Fax: +880-31-000-000"
+    - icon: ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info: "Festnetz: +49 6772-8099990"
 
     - icon: ti-email # themify icon pack : https://themify.me/themify-icons
       info: "Email: steinreinigung-steffens@web.de"
@@ -22,7 +22,7 @@ contact:
   # Contact form
   contact_form:
     enable: true
-    form_action: "#" #contact form works with https://formspree.io
+    form_action: "https://formspree.io/f/xbjpeyjd" #contact form works with https://formspree.io
     name: "Ihr Name"
     email: "Ihre Email"
     phone: "Ihre Telefonnummer"
