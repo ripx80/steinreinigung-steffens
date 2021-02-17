@@ -1,7 +1,6 @@
 baseURL = "https://ripx80.github.io/steinreinigung-steffens/"
 #baseURL = "https://steinreinigung-steffens.com"
 title = "steinreinigung-steffens.com"
-languageCode = "de"
 defaultContentLanguage = "de"
 theme = "meghna-hugo"
 
@@ -207,7 +206,7 @@ link = "#"
 
 [Languages.de]
 languageName = "De"
-languageCode = "de-us"
+languageCode = "de"
 contentDir = "content/deutsch"
 weight = 1
 home = "Home"

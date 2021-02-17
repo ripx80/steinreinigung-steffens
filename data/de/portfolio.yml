@@ -78,7 +78,7 @@ portfolio:
     # portfolio item loop
     - name: Dachreinigung
       image: images/portfolio/p-10.jpg
-      image_webp: images/portfolio/p-9.webp
+      image_webp: images/portfolio/p-10.webp
       categories: ["Reinigung", "Dach"]
       content: Dachplatten mit ca 220 Bar Druck von Moos und Algen befreit.
       link: "#"
@@ -86,7 +86,7 @@ portfolio:
     # portfolio item loop
     - name: Dachreinigung
       image: images/portfolio/p-11.jpg
-      image_webp: images/portfolio/p-9.webp
+      image_webp: images/portfolio/p-11.webp
       categories: ["Reinigung", "Dach"]
       content: Dachplatten gereinigt mit 220 Bar und von Rotalgen befreit.
       link: "#"
