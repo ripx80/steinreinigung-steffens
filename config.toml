@@ -30,7 +30,7 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logo.webp"
 
 # blog
