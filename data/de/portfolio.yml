@@ -1,14 +1,14 @@
 #################################### portfolio ###############################
 portfolio:
   enable: true
-  title: Unsere Arbeiten
+  title: Einblicke unserer Steinbehandlungen
   portfolio_item:
     # portfolio item loop
     - name: Terrasenreinigung
       image: images/portfolio/p-1.jpg
       image_webp: images/portfolio/p-1.webp
       categories: ["Reinigung"]
-      content: Durch den Einsatz verschiedener Reinigungsmittel, können wir die eigentliche Farbe der Oberfläche gut zum Vorschein bringen. Mehr Infos finden Sie unten in unseren Stories.
+      content: Durch den Einsatz verschiedener Reinigungsmittel, können wir die eigentliche Farbe der Oberfläche gut zum Vorschein bringen. Mehr Infos finden Sie unten in unserem Blog.
       link: "https://themefisher.com"
 
     # portfolio item loop
@@ -24,7 +24,7 @@ portfolio:
       image: images/portfolio/p-3.jpg
       image_webp: images/portfolio/p-3.webp
       categories: ["Reinigung"]
-      content: Typischer Flechtenbefall, den wir wieder mit unseren Reinigungsverfahren auf vordermann bekommen ahben. Konstenlose Beratung? Kontaktieren Sie uns.
+      content: Typischer Flechtenbefall, den wir wieder mit unseren Reinigungsverfahren auf vordermann bekommen haben. Kostenlose Beratung? Kontaktieren Sie uns.
       link: "#"
 
     # portfolio item loop
@@ -55,7 +55,7 @@ portfolio:
     - name: Fugensanierung
       image: images/portfolio/p-7.jpg
       image_webp: images/portfolio/p-7.webp
-      categories: ["Sanierung"]
+      categories: ["Fugensanierung"]
       content: Spezielle feste Fugensanierung die bis zu 7,5t belastbar ist und zudem ist sie Wasserdurchlässig und hemmt das Unkraut.
       link: "#"
 
@@ -63,7 +63,7 @@ portfolio:
     - name: Fugensanierung
       image: images/portfolio/p-8.jpg
       image_webp: images/portfolio/p-8.webp
-      categories: ["Sanierung"]
+      categories: ["Fugensanierung"]
       content: Bei dieser Fläche wurde ine lose Quarz Fuge in Naturfarbe gebracht.
       link: "#"
 
@@ -71,7 +71,7 @@ portfolio:
     - name: Fugensanierung
       image: images/portfolio/p-9.jpg
       image_webp: images/portfolio/p-9.webp
-      categories: ["Sanierung"]
+      categories: ["Fugensanierung"]
       content: Optional kann auch Basalt Splitt eingekehrt werden. Wir freuen uns auf Ihre Anfrage.
       link: "#"
 

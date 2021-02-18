@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Letzte Stories
+  translation: Letzte Posts
 - id: readMore
   translation: Erfahre mehr
 - id: viewAllPost
-  translation: Sehe alle Stories
+  translation: Sehe alle Posts
 - id: share
   translation: Teile
 - id: aboutAuthor
@@ -23,7 +23,7 @@
 - id: pricing
   translation: Preise
 - id: blog
-  translation: Stories
+  translation: Blog
 - id: contact
   translation: Kontakt
 - id: themefisher

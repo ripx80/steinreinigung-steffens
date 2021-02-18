@@ -9,42 +9,7 @@ Domain: steinreinigung-steffens.com
 - 10.02.2021: Begin with template customisation
 - 11.02.2021: Impressum, Datenschutz erstellt, Protfolio, Team, Logo bearbeitet und eingefügt
 - 13.02.2021: Kundengespräch über weiteres vorgehen (12h verbraucht)
-
-Zusammenschreiben mit Aktionen
-
-- Grid Position
-
-
-- Fotos vorher nacher, einheitliche Größe
-- Social Channels
-- ggf Blog stories
-
-
-- Anfangsbild: Vorhernacher Bild, steinreinigung-steffens.com mit dem Reiniger
-
-Leistungen:
-
-- Spezial -> Sonderreinigung.
-- Fassade und Dach: ti-home
-- Verdedelung: ti-layout-grid3-alt
-- Steinreinigung: ti-layout-grid3
-
-Unsere Arbeit
- - Durcheinander: Drei Terrassen, Einfahren, Dach/Fassade
- - Versiegelung -> Imprägnierung
- - Bild mit Imprägnierung, Wasserperlen
- 
-- funfacts: Steine gereinigt: ti-layout-grid2
- 
-- Blog aktivieren
-
-Unser Team: Darf ich vorstellen
-
-Kundenfeedback: Rausnehmen
-Angebote: Rausnehmen oder Reinigungsmittel
-
-Kontakt: Festnetznummer
-Social: Facebook, YouTube, Instagram
+- 18.02.2021: Kundengespräch kleine Änderungen, Auftrag für Stories
 
 ## Anfragen
 
@@ -68,16 +33,18 @@ Social: Facebook, YouTube, Instagram
 - [x] - Content erstellen
 - [x] - Cookie Banner hinzufügen
 - [x] - Kontaktformular mit JS und E-Mail versandt
+- [x] - switch email to steffens-web
 - [ ] - Google Analytics integrieren, warte auf ID von steffens
-  - https://support.google.com/analytics/answer/1008080?hl=de
-
 - [ ] - Change jpg format to webp and render in lower resolution
-- [ ] - switch email to steffens-web
 - [ ] - Domain umziehen zu inwx
+- [ ] - Christian Bild
 - [ ] - SSL Zertifikate
-
-
-  - https://ruddra.com/hugo-deploy-static-page-using-github-actions/
+- [ ] - Banner Image, Handy resolution, flächenreiniger muss drauf
+- [ ]- Stories:
+  - https://www.steinreinigung-steffens.com/steinveredlung-1/
+  - https://www.steinreinigung-steffens.com/marmorreinigung/
+- [ ] - WhatsApp Service, Business, direkt bei Telefon
+- [ ] - Social Channels: Instagramm, Facebook
 
 ## Tätigkeiten
 
