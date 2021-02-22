@@ -8,7 +8,7 @@ team:
       image_webp: images/team/team-1.webp
       image: images/team/team-1.jpg
       designation: Geschäftsführer
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content: 'Christian Steffens der bereits seit 8 Jahren in dieser Branche tätig ist, übt diesen Beruf mit viel Leidenschaft aus. Er hat sich mit dem Thema Steinpflege lange beschäftigt und entwickelt mit kompetenten Firmen eigene Produkte zur Steinpflege. Er selbst sagt: "Am Ende des Tages hinterlasse ich nicht nur eine saubere Steinfläche sondern auch einen glücklichen Kunden und das ist mein Ziel in dieser Branche".'
       social:
         - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
           link: "#"

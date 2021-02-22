@@ -10,16 +10,7 @@ Domain: steinreinigung-steffens.com
 - 11.02.2021: Impressum, Datenschutz erstellt, Protfolio, Team, Logo bearbeitet und eingefügt
 - 13.02.2021: Kundengespräch über weiteres vorgehen (12h verbraucht)
 - 18.02.2021: Kundengespräch kleine Änderungen, Auftrag für Stories
-
-## Anfragen
-
-- Google Analytics ID: scfe4d754dc915914
-- Professionelles Foto, Möglicherweise Schwarzweis
-- Texte zu den einzelnen Bildern im Portfolio
-- Kunden für Feedback, ggf mit Bild
-- Preisliche Gestaltung
-- Text für Christian Steffens
-- Zahlen: Zufriedene Kunden, Projekte, Positives Feedback
+- 22.02.2021: Letzte Änderungen, Stories einpflegen
 
 ## Aufgaben
 
@@ -34,16 +25,13 @@ Domain: steinreinigung-steffens.com
 - [x] - Cookie Banner hinzufügen
 - [x] - Kontaktformular mit JS und E-Mail versandt
 - [x] - switch email to steffens-web
-- [ ] - Google Analytics integrieren, warte auf ID von steffens
-- [ ] - Change jpg format to webp and render in lower resolution
+- [x] - Change jpg format to webp and render in lower resolution
+- [x] - Christian Bild
+- [x] - WhatsApp Service, Business, direkt bei Telefon
+- [x] - Banner Image, Handy resolution, flächenreiniger muss drauf
+- [x] - Blogs
 - [ ] - Domain umziehen zu inwx
-- [ ] - Christian Bild
 - [ ] - SSL Zertifikate
-- [ ] - Banner Image, Handy resolution, flächenreiniger muss drauf
-- [ ]- Stories:
-  - https://www.steinreinigung-steffens.com/steinveredlung-1/
-  - https://www.steinreinigung-steffens.com/marmorreinigung/
-- [ ] - WhatsApp Service, Business, direkt bei Telefon
 - [ ] - Social Channels: Instagramm, Facebook
 
 ## Tätigkeiten
@@ -71,3 +59,7 @@ Domain: steinreinigung-steffens.com
 - https://developers.google.com/speed/webp/docs/cwebp
 - webp: cwebp -q 50 -lossless picture.png -o picture_lossless.webp
 - convert dragon_sm.gif    -resize 64x64  resize_dragon.gif
+- youtube link: {{< youtube FVUBXBCWLiM >}}
+- bild link: {{< figure src="/steinreinigung-steffens/images/portfolio/p-1.jpg" title="Steinreinigung" height="400">}}
+- 600x300 blog title image
+- x200 blog preview image

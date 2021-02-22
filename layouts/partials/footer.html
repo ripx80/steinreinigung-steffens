@@ -7,9 +7,11 @@
 				{{"<!-- Footer Social Links -->" | safeHTML}}
 				<div class="social-icon">
 					<ul class="list-inline">
+                        <li class="list-inline-item"><a href="https://wa.me/1748961178"><i><img src="{{site.BaseURL | safeURL }}/images/wa.png" /></a></i></li>
 						{{ range site.Params.social }}
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
+                        
 					</ul>
 				</div>
                 {{"<!-- legal-disclousure -->" | safeHTML}}
