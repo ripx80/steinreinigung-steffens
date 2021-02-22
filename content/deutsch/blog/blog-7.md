@@ -26,15 +26,15 @@ Sie wünschen Informationen zu unseren Leistungen? Egal ob
 
 Durch starke Nutzung und den Zahn der Zeit verlieren Marmoböden an Eleganz und Schönheit. Geben Sie Ihre Marmorfläche in professionelle Hände und lassen Sie sie in neuem Glanz erstrahlen!
 
-## 1. Marmor pflegen
+### 1. Marmor pflegen
 
 Stark beanspruchter Marmor benötigt eine Intensive Pflege. Wir übernehmend das für Sie!
 
-## 2. Marmor polieren
+### 2. Marmor polieren
 
 Stumpfer Marmor verliert seinen Glanz und wirkt unansehnlich. Wir polieren Ihren Marmor auf Hochglanz!
 
-## 3. Marmor schleifen
+### 3. Marmor schleifen
 
 Unebenheiten und Kratzer verschandeln die edle Eleganz von Marmor. Vertrauen Sie uns ihre Marmorflache an!
 
