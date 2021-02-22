@@ -16,7 +16,7 @@ Wenn wir dies ermittelt haben, machen wir Ihnen ein passendes Angebot.
 
 Sind Sie oder Ihre Versicherung mit dem Angebot einverstanden, führen wir die Reinigung durch. Das bedeutet, dass wir ein Mittel auftragen, was eine gewisse Zeit benötigt um in die Fläche einzudringen.
 
-{{< figure class="lozad" src="/images/blog/b-4-2.jpg" title="" height="400">}}
+{{< figure class="lozad" src="images/blog/b-4-2.jpg" title="" height="600">}}
 
 Im Anschluss fahren wir mit einem Flächenreiniger über die komplette Fläche, um ein möglichst gleiches Bild zu bekommen.
 

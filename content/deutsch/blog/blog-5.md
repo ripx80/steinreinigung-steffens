@@ -13,7 +13,7 @@ Summary: Wie wird eine professionelle Dachreinigung durchgeführt?
 
 Bei der Reinigung des Dachziegels ist zu beachten, dass der Druck nicht zu Hoch ist, um den Ziegel nicht zu beschädigen.
 
-{{< figure class="lozad" src="/images/blog/b-5-2.jpg" title="" height="400">}}
+{{< figure class="lozad" src="images/blog/b-5-2.jpg" title="" height="400">}}
 
 Natürlich kann es passieren, dass durch Ablagerungen wie Algen und Moose der Ziegel brüchig wird. Um dies zu vermeiden, bietet sich eine Reinigung Ihrer Dachfläche an.
 
@@ -23,4 +23,4 @@ Im diesen Video haben Sie einen kleinen Einblick wie eine Dachreinigung abläuft
 
 Gerne beraten wie Sie im Bezug auf unsere Dachbehandlungen.
 
-{{< figure class="lozad" src="/images/blog/b-5-3.jpg" title="" height="400">}}
+{{< figure class="lozad" src="images/blog/b-5-3.jpg" title="" height="400">}}

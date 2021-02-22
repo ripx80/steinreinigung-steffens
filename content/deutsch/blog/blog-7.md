@@ -22,7 +22,7 @@ Sie wünschen Informationen zu unseren Leistungen? Egal ob
 - Marmorbodenreinigung
 - Pflege der Steine
 
-{{< figure class="lozad" src="/images/blog/b-7-2.jpg" title="" >}}
+{{< figure class="lozad" src="images/blog/b-7-2.jpg" height="400" title="" >}}
 
 Durch starke Nutzung und den Zahn der Zeit verlieren Marmoböden an Eleganz und Schönheit. Geben Sie Ihre Marmorfläche in professionelle Hände und lassen Sie sie in neuem Glanz erstrahlen!
 
@@ -38,8 +38,8 @@ Stumpfer Marmor verliert seinen Glanz und wirkt unansehnlich. Wir polieren Ihren
 
 Unebenheiten und Kratzer verschandeln die edle Eleganz von Marmor. Vertrauen Sie uns ihre Marmorflache an!
 
-{{< figure class="lozad" src="/images/blog/b-7-3.jpg" title="" >}}
-{{< figure class="lozad" src="/images/blog/b-7-4.jpg" title="" >}}
+{{< figure class="lozad" src="images/blog/b-7-3.jpg" height="600" title="" >}}
+{{< figure class="lozad" src="images/blog/b-7-4.jpg" height="600" title="" >}}
 
 ## Wir polieren und pflegen Ihre Marmorfliesen und den Marmorboden
 
@@ -47,4 +47,4 @@ Marmor gehört zu den Weichgesteinen und weist mit der Zeit Zeichen von Abrieb u
 
 Marmorflächen haben besondere Ansprüche bei der Reinigung, Pflege und Instandhaltung. Handelsübliche chemische Mittel stoßen hier an ihre Grenzen und können auf Dauer mehr Schaden anrichten, als sie nützen.
 
-{{< figure class="lozad" src="/images/blog/b-7-5.jpg" title="" >}}
+{{< figure class="lozad" src="images/blog/b-7-5.jpg" height="600" title="" >}}

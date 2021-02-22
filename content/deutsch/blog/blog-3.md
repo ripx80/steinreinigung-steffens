@@ -15,11 +15,11 @@ Sicherlich kennen Sie das Problem, wenn man das Einkehren der Steinfläche selbs
 
 Auch für dieses Problem haben wir eine Lösung.
 
-{{< figure class="lozad" src="/images/blog/b-3-1.jpg" title="" height="400">}}
+{{< figure class="lozad" src="images/blog/b-3-1.jpg" title="" height="400">}}
 
 Spezieller Fugensand, bis zu 40 Tonnen belastbar!
 
-{{< figure class="lozad" src="/images/blog/b-3-2.jpg" title="" height="400">}}
+{{< figure class="lozad" src="images/blog/b-3-2.jpg" title="" height="400">}}
 
 Die Vorteile einer Festen Fuge:
 

@@ -19,7 +19,7 @@ Bevor wir mit der Reinigung starten, ist es wichtig zu wissen, um welchen Art St
 Es handelt es sich um einen Indischen Sandstein.
 Unser Reinigungsverfahren für diese Terrasse:
 
-{{< figure class="lozad" src="/images/blog/b-1-2.jpg" title="" height="400">}}
+{{< figure class="lozad" src="images/blog/b-1-2.jpg" title="" height="400">}}
 
 1. Vorbehandeln mit einen Speziellen Mittel
 2. Reinigen mit Hochdruckmaschiene im Niedrigen Druck
@@ -27,7 +27,7 @@ Unser Reinigungsverfahren für diese Terrasse:
 4. Abspülen
 5. Imprägnieren
 
-{{< figure src="/images/blog/b-1-3.jpg" title="" height="400">}}
+{{< figure src="images/blog/b-1-3.jpg" title="" height="400">}}
 
 Sollten Sie im Innenbereich einen Naturstein wie Marmor oder Granit besitzen, führen wir an diesen Steinen Reinigungsarbeiten mit einer Einscheibemaschiene durch. Dazu schauen Sie gerne auf unseren Post: Natursteinreinigung Marmor.
 
