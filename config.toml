@@ -1,5 +1,5 @@
 #baseURL = "https://ripx80.github.io/steinreinigung-steffens/"
-baseURL = "https://steinreinigung-steffens.com"
+baseURL = "https://www.steinreinigung-steffens.com"
 title = "steinreinigung-steffens.com"
 defaultContentLanguage = "de"
 theme = "meghna-hugo"
