@@ -22,7 +22,7 @@ Tel + Fax: 06772-960853
 
 Mobil: 0174-8961178
 
-Mail: info@steinreinigung-steffens.de
+Mail: steffens-steinreinigung@web.de
 
 ### Inhaltlich Verantwortlicher gemäß § 6 TDG: Christian Steffens
 
