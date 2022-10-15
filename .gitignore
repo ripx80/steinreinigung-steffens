@@ -1,3 +1,6 @@
 content/english
 data/en
 i18n/en.yaml
+.hugo_build.lock
+.direnv
+result

@@ -15,6 +15,7 @@ locale = "de"
 copyright = "Christian Steffens"
 legaldisclosure = "Impressum"
 dataprotection = "Datenschutz"
+agb = "AGB"
 
 
 ### Theme Config ###
